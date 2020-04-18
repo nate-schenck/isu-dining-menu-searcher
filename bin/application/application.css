@@ -1,0 +1,26 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#header {
+	-fx-font-family: "Helvetica";
+	-fx-font-size: 25;
+	-fx-font-weight: bold;
+}
+
+#textlabel1, #textlabel2 {
+	-fx-font-family: "Helvetica";
+	-fx-font-size: 15;
+}
+
+
+.scroll-pane > .viewport {
+	-fx-background-color: rgba(200,0,0,.1);
+}
+
+.root {
+	-fx-background-color: rgba(200,0,0,.1);
+}
+
+#searchbutton {
+	-fx-font-weight: bold;
+}
+
+
